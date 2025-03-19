@@ -3,7 +3,6 @@ __pycache__/
 .vscode/
 *.pyc
 *.pyo
-*.h5
 .DS_Store
 venv/
 
