@@ -1,8 +1,15 @@
-
+# Python
 __pycache__/
-.vscode/
 *.pyc
 *.pyo
-.DS_Store
-venv/
+*.h5
 
+# IDE/Editor settings
+.vscode/
+*.ipynb_checkpoints
+
+# Operating System
+.DS_Store
+
+# Environment
+venv/
