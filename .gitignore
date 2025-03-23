@@ -2,7 +2,7 @@
 __pycache__/
 *.pyc
 *.pyo
-*.h5
+
 
 # IDE/Editor settings
 .vscode/
