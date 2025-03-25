@@ -1,5 +1,5 @@
 Real-Time Emotion Detection System
-Overview
+Overview : 
 The Real-Time Emotion Detection System is an AI-powered application that recognizes human emotions using facial expressions. It utilizes Convolutional Neural Networks (CNN) for emotion classification and provides real-time predictions via a GUI.
 
 Features
